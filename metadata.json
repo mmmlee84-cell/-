@@ -1,0 +1,6 @@
+{
+  "name": "Ship It",
+  "description": "완벽주의 때문에 완성을 미루는 창작자들을 위한 '오늘 할 일' 중심의 완주 및 출시 관리 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
